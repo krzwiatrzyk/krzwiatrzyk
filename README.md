@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Lowlighter Github Metrics
+
+Based on - https://github.com/lowlighter/metrics 
+
+<p align="center">
+<img src="github-metrics.svg" alt="Metrics" height="45%">
+</p>

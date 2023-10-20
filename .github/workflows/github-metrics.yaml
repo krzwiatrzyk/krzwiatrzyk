@@ -1,0 +1,29 @@
+---
+name: Metrics
+on:
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          # Stars
+          plugin_stars: yes
+          plugin_stars_limit: 2
+          # Music
+          plugin_music: false
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_limit: 2
+          plugin_music_played_at: yes
+          # plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          # Pagespeed
+          plugin_pagespeed: false
+          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_detailed: no
+          plugin_pagespeed_screenshot: no
+          plugin_pagespeed_url: .user.website
