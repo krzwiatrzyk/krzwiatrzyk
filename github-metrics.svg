@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xataio/pgroll</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL zero-downtime migrations made easy</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casbin/casdoor</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS</div>
@@ -324,7 +324,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2023, 21:06:51  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2023, 22:05:00  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
