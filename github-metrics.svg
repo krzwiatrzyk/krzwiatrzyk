@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>variadico/noti</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitor a process and trigger a notification.</div>
@@ -324,7 +324,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2023, 03:08:02  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2023, 04:09:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
