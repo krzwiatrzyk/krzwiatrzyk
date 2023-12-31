@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apecloud/kubeblocks</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.</div>
@@ -324,7 +324,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2023, 21:05:38  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2023, 22:06:20  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
