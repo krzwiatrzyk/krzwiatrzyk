@@ -33,3 +33,11 @@ Based on - https://github.com/lowlighter/metrics
 <p align="center">
 <img src="github-metrics.svg" alt="Metrics" height="45%">
 </p>
+
+#### Profile views
+
+Based on - https://github.com/antonkomarev/github-profile-views-counter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krzwiatrzyk&style=flat-square&color=blue" alt=""/>
+</div>
