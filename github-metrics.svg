@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eduardolat/pgbackweb</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seriohub/velero-ui</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A UI for Velero</div>
@@ -324,7 +324,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2024, 20:01:52  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2024, 21:01:49  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
